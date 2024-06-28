@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-skill-assessment/static/css/main.e6c13ad2.css",
+    "main.js": "/react-skill-assessment/static/js/main.4cdb74c5.js",
+    "static/js/966.d9ae2df6.chunk.js": "/react-skill-assessment/static/js/966.d9ae2df6.chunk.js",
+    "index.html": "/react-skill-assessment/index.html",
+    "main.e6c13ad2.css.map": "/react-skill-assessment/static/css/main.e6c13ad2.css.map",
+    "main.4cdb74c5.js.map": "/react-skill-assessment/static/js/main.4cdb74c5.js.map",
+    "966.d9ae2df6.chunk.js.map": "/react-skill-assessment/static/js/966.d9ae2df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4cdb74c5.js"
+  ]
+}
